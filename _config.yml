@@ -9,8 +9,12 @@
 title: RandomvBites
 email: ricardo.adao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Random vBites is no more that some random technical brain dumps.
-  Idea is keep them simple and interesting, some of them could be really in depth when that depth is needed.
+  Random vBites is no more than some random quick  brain dumps.
+  
+  Main goal is to keep them simple and interesting.
+
+  You can contact me @ricardonadao or ricardo.adao@gmail.com.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
 twitter_username: ricardonadao
