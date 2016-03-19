@@ -11,7 +11,7 @@ email: ricardo.adao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Random vBites is no more that some random bites of knowledge.
   
-  You can contact me @ricardonadao or ricardo.adao@gmail.com.
+  You can contact me [@ricardonadao](https://twitter.com/ricardonadao) or [ricardo.adao@gmail.com](mailto:ricardo.adao@gmail.com).
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
