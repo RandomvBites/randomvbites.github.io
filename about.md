@@ -22,7 +22,7 @@ Some fun facts about the setup of this blog include:
 
 * Built with [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Budget Objective to keep the blog up = 0£
+* Target Budget to keep the blog up = 0£
 
 Have questions or suggestions? Feel free to contact [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username}}).
 
