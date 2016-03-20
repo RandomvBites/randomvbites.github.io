@@ -9,8 +9,10 @@
 title: RandomvBites
 email: ricardo.adao@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  <a href="{{ site.url }}" target="_blank">Random vBites</a> keeping track of bites and nibbles.
-  Contacts <a href="https://twitter.com/{{ site.twitter_username}}" target="_blank">@{{ site.twitter_username}}</a> or <a href="mailto:{{ site.email }}">email</a>  
+
+  Random vBites grabbing some bites and nibbles of knowledge.
+  Contacts <a href="https://twitter.com/ricardonadao" target="_blank">@ricardonadao</a> or <a href="mailto:ricardo.adao@gmail.com">email</a>
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
 twitter_username: ricardonadao
