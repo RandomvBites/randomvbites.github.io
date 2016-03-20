@@ -5,7 +5,7 @@ title: About
 
 <p class="message">
   WARNING: Random vBites will contain random bites and nibbles of information.
-           I'll hope that some of the info become usefull somehow.
+           I'll hope that some of the info become usefull to someone.
 </p>
 
  I.m a Senior Virtualization Engineer at a leading service provider.
@@ -22,7 +22,7 @@ Some fun facts about the setup of this blog include:
 
 * Built with [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Target Budget to keep the blog up and running = 0&pound;
+* Target Budget to keep the blog up and running = <b>0&pound;</b>
 
 Have questions or suggestions? Feel free to contact [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username}}).
 
