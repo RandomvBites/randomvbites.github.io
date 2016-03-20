@@ -4,17 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  WARNING: Random vBites will contain random bites and nibbles of information.
+           I'll hope that some of the info become usefull somehow.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I.m a virtualization architect at a leading service provider, responsible for the VMware estate of the largest single VMware VSPP partner. This year I.m intending on building out this blog with useful information relating to both Virtualization and also other open source technologies I work with.
 
-There are currently two themes built on Poole:
+This blog represents my personal opinion only, and in no way represents my employers, past, present or future.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+Ricardo [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
 
 ## Setup
 
