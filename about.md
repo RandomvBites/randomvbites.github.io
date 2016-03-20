@@ -4,8 +4,9 @@ title: About
 ---
 
 <p class="message">
-  WARNING: Random vBites will contain random bites and nibbles of information.
-           I'll hope that some of the info become usefull to someone.
+  <b>WARNING</b>:<br>
+        Random vBites will contain random bites and nibbles of information.<br>
+        I'll hope that some of the info become usefull to someone.
 </p>
 
  I.m a Senior Virtualization Engineer at a leading service provider.
