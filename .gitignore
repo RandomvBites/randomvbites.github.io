@@ -29,6 +29,9 @@ nbproject
 *.sublime-workspace
 .idea
 
+# Jekyll
+.jekyll-metadata
+
 # Komodo
 *.komodoproject
 .komodotools
@@ -40,3 +43,4 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+.sass-cache

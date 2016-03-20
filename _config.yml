@@ -19,5 +19,10 @@ url: "http://randomvbites.github.io" # the base hostname & protocol for your sit
 twitter_username: ricardonadao
 github_username:  randomvbites
 
+# Jekyll Config
+host: 0.0.0.0
+port: 4000
+incremental: true
+
 # Build settings
 markdown: kramdown

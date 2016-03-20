@@ -14,7 +14,7 @@ title: About
  
  This blog represents my personal opinion only, and in no way represents my employers, past, present or future.
 
-Ricardo Adão [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
+Ricardo Ad&atilde;o [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username }})
 
 ## Setup
 
@@ -22,7 +22,7 @@ Some fun facts about the setup of this blog include:
 
 * Built with [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Target Budget to keep the blog up = 0£
+* Target Budget to keep the blog up and running = 0&pound;
 
 Have questions or suggestions? Feel free to contact [@{{ site.twitter_username }}](https://twitter.com/{{ site.twitter_username}}).
 
