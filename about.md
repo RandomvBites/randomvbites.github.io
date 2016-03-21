@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
@@ -11,7 +12,7 @@ title: About
 
  I.m a Senior Virtualization Engineer at a leading service provider.
 
- My main goal for the blog is to share some of the information that lazyness and lack of time takes the toll and leave the time for this behind.
+ My main goal for the blog is to share some of the information that lazyness and lack of time takes its toll and leave no time for sharing the info.
  
  This blog represents my personal opinion only, and in no way represents my employers, past, present or future.
 
