@@ -5,19 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Dependencies
-
-#highlighter: pygments
-
 # Build settings
 markdown: kramdown
 
 # Site settings
-title: RandomvBites
+title: "Random vBites"
 tagline: "Just Another Random IT Blog"
 description: 'Random vBites grabbing some bites and nibbles of knowledge.
-  Contacts <a href="https://twitter.com/ricardonadao" target="_blank">@ricardonadao</a> or <a href="mailto:ricardo.adao@gmail.com">email</a>
-'
+  Contacts <a href="https://twitter.com/ricardonadao" target="_blank">@ricardonadao</a> or <a href="mailto:ricardo.adao@gmail.com">email</a>'
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
 
