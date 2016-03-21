@@ -12,9 +12,6 @@
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-paginate]
-
-
 # Site settings
 title: RandomvBites
 tagline: "Just Another Random IT Blog"
@@ -23,7 +20,6 @@ description: 'Random vBites grabbing some bites and nibbles of knowledge.
 '
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
-paginate: 10
 
 email: ricardo.adao@gmail.com
 twitter_username: ricardonadao
