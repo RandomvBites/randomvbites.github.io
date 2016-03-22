@@ -1,31 +1,21 @@
-# Welcome to Jekyll!
+# Dependencies markdown: redcarpet
+markdown: kramdown highlighter: pygments gems: [jekyll-paginate]
+# Permalinks
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Build settings
-markdown: kramdown
-
-# Site settings
-title: "Random vBites"
-tagline: "Just Another Random IT Blog"
-description: 'Random vBites grabbing some bites and nibbles of knowledge.
-              Contacts <a href="https://twitter.com/ricardonadao" target="_blank">@ricardonadao</a> or <a href="mailto:ricardo.adao@gmail.com">email</a>'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: http://randomvbites.github.io # the base hostname & protocol for your site
-
-# About info
-email: ricardo.adao@gmail.com
-twitter_username: ricardonadao
-github_username:  randomvbites
-
-#Custom Vars
-version: 1.0
-
-# Jekyll Config
-host: 0.0.0.0
-port: 4000
-incremental: true
-
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+#relative_permalinks: true
+# Setup
+title: RandomvBites tagline: "Ricardo's crappy site" description: 'Alex Pearson''s technical 
+IT blog <a href="http://www.vrandom.com" target="_blank">www.vrandom.com</a>. Contact me on 
+<a href="https://twitter.com/alexpearson" target="_blank">@alexpearson</a> or <a 
+href="mailto:alex@apics.co.uk">email</a>.' url: http://www.vrandom.com
+#baseurl: /
+paginate: 10
+# About/contact
+author:
+  name: Alex Pearson
+  url: https://twitter.com/alexpearson
+  email: alex@apics.co.uk
+# Custom vars
+version: 1.0.0
