@@ -22,9 +22,9 @@ version: 1.0
 
 # Build settings
 markdown: kramdown
-#permalink: /:year/:month/:title/
+permalink: pretty
 paginate: 10
-#highlighter: rouge
+highlighter: rouge
 
 # Gems
 gems: [jekyll-paginate]
