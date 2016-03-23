@@ -9,7 +9,7 @@
 title: "Random vBites"
 tagline: "Just Another Random IT Blog"
 description: 'Random vBites grabbing some bites and nibbles of knowledge. Contacts <a href="https://twitter.com/ricardonadao" target="_blank">@ricardonadao</a> or <a href="mailto:ricardo.adao@gmail.com">email</a>'
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://randomvbites.github.io" # the base hostname & protocol for your site
 
 # About info
@@ -22,7 +22,7 @@ version: 1.0
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:title/
+#permalink: /:year/:month/:title/
 paginate: 10
 #highlighter: rouge
 
@@ -32,5 +32,5 @@ gems: [jekyll-paginate]
 # Jekyll Config
 host: 0.0.0.0
 port: 4000
-incremental: true
+#incremental: true
 
