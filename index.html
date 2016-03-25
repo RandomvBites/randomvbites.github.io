@@ -13,7 +13,7 @@ title: Home
     </h1>
     <p class="post-detail">
 	{{ post.date | date_to_string }}
-	<a href="{{ site.baseurl }}{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{site.baseurl}}{{post.url}}"></a>
+	<a href="http://{{ site.baseurl }}{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{site.baseurl}}{{post.url}}"></a>
     </p>
 
     {{ post.content }}
