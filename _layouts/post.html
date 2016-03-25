@@ -1,12 +1,18 @@
 ---
 layout: default
-comments: true
 ---
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+    <p class="post-detail">
+        {{ page.date | date_to_string }}
+        <a href="{{ site.baseurl }}{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{site.baseurl}}{{post.url}}"></a>
+    </p>
+
   {{ content }}
+
+  <script id="dsq-count-scr" src="http://{{ site.disqus_shortname }}.disqus.com/count.js" async></script>
 </div>
 
 {% if page.comments %}
