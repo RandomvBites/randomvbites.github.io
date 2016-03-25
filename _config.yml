@@ -30,3 +30,6 @@ permalink: pretty
 
 # Gems
 gems: [jekyll-paginate]
+
+# Disqus vars
+disqus_shortname: randomvbites
