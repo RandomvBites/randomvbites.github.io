@@ -15,7 +15,7 @@ published: true
  The blog will be nothing more that a brain dump of some of the info that we gather and came
  across and sometimes we don't have the time to document it.
 
- I'll try to keep it short and sweet, but always having some attention to important details and
+ I'll try to keep it short and sweet, but not leaving behind the important details and
  context. 
  
  This blog represents my personal opinion only, and in no way represents my employers, past, present or future.
