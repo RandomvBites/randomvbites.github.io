@@ -10,9 +10,13 @@ published: true
         I'll hope that some of the info become usefull to someone.
 </p>
 
- I.m a Senior Virtualization Engineer at a leading service provider.
+ I'm a Senior Virtualization Engineer at a leading service provider.
 
- My main goal for the blog is to share some of the information that lazyness and lack of time takes its toll and leave no time for sharing the info.
+ The blog will be nothing more that a brain dump of some of the info that we gather and came
+ across and sometimes we don't have the time to document it.
+
+ I'll try to keep it short and sweet, but always having some attention to important details and
+ context. 
  
  This blog represents my personal opinion only, and in no way represents my employers, past, present or future.
 
