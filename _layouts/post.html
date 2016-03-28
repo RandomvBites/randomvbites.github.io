@@ -7,9 +7,7 @@ layout: default
 
     <p class="post-detail">
         {{ page.date | date_to_string }}
-	{% if page.comments %}
-           <a href="{{ site.baseurl }}{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{site.baseurl}}{{post.url}}"></a>
-	{% endif %}
+        <a href="{{ site.baseurl }}{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{site.baseurl}}{{post.url}}"></a>
     </p>
 
   {{ content }}
